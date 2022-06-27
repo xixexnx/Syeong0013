@@ -1,7 +1,6 @@
 <div align=center>
 
-(Most Used Language)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=vue)
   
 <hr>
 
