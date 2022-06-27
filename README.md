@@ -1,7 +1,6 @@
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeong0013&layout=compact&theme=tokyonight)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
 <hr>
 
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%white&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
