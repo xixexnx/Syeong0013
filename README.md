@@ -4,7 +4,7 @@
 
 <div align=center> 
   <div>
-    <div><a> :tiger: Siyeong :tiger: </a></div>
+    <div><a> 🐆 Siyeong 🐆 </a></div>
     <a href="https://velog.io/@yeong031" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>  
     <a href="mailto:siyeong.backend@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyeong.backend@gmail.com"
