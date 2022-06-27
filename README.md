@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=graywhite)
   
 
   <div align="center">
