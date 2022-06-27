@@ -1,6 +1,6 @@
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=vue)
   
 
   <div align="center">
