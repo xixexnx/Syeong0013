@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&layout=compact&theme=vue)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeong0013&layout=compact&theme=vue)](https://github.com/metleeha)
 
 <hr>
 
