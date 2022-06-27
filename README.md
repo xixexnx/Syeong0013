@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://velog.io/@yeong031" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyeong.backend@gmail.com)](mailto:siyeong.backend@gmail.com)
+  <a href="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyeong.backend@gmail.com"></a>
 </div>
 
 <div>
