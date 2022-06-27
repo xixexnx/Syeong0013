@@ -5,3 +5,4 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<a href="https://velog.io/@yeong031" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>
