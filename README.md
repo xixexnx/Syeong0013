@@ -1,10 +1,10 @@
-# 👋 Siyeong Develop
+# 👋 Siyeong
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=graywhite)
 
 <div align=center> 
   <div>
-    <div><a> 🐆 Siyeong 🐆 </a></div>
+    <div><a> ✉ Siyeong ✒ </a></div>
     <a href="https://velog.io/@yeong031" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>  
     <a href="mailto:siyeong.backend@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyeong.backend@gmail.com"
