@@ -1,8 +1,8 @@
 # 👋
 <div align=center> 
- 
+<div align=left>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=graywhite)
-
+</div>
   <div align=right>
      <a href="https://velog.io/@yeong031" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>  
      <a href="mailto:siyeong.backend@gmail.com">
