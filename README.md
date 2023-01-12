@@ -1,6 +1,6 @@
 # 👋 Siyeong
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&theme=graywhite)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeong0013&theme=graywhite)
 
 <div align=center> 
   <div>
