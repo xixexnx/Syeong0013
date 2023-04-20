@@ -1,8 +1,10 @@
 # 👋 Siyeong
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeong0013&theme=graywhite)
+<div align=center vertical-align=middle> 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeong0013&theme=white&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeong0013&layout=compact&theme=graywhite)
+  
+</div>
 <div align=center> 
   <div>
     <div><a> ✉ Siyeong ✒ </a></div>
