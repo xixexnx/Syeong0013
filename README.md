@@ -14,10 +14,14 @@
   </br>
   <div>
     <div><b> 📚 STACKS 📚  </b></div>
-    <img alt="Java" src ="https://img.shields.io/badge/Java-4479A1.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+    <div>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-    <img alt="Oracle" src ="https://img.shields.io/badge/OracleDB-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
+    </div>
+    <div>
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </div>
   </div>
 </div>
